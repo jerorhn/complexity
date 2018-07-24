@@ -1,0 +1,23 @@
+1. An algorithm that has O(1) is as fast as a plane whereas an algorithm with O(2^n) could be as slow as walking.
+
+2. The best case scenario for binary search is that the element being searched for is the first element tried (the last element in the list).
+
+3. The worst case scenario is that the element being searched for is the last element tried.
+
+4. The bonded case scenario is that the element being searched for is between the best and worse case scenario.
+
+5.https://docs.google.com/spreadsheets/d/1Mk5_3O2LabNOqQNpqMSY9g8IqhjnAmra5RXA5PimvNY/edit?usp=sharing
+
+6. f(n) -> infinity as n -> infinity
+
+7. O(2^n)
+
+8. in big_o_iterations.rb
+
+9.https://docs.google.com/spreadsheets/d/1Mk5_3O2LabNOqQNpqMSY9g8IqhjnAmra5RXA5PimvNY/edit?usp=sharing
+
+10. O(log n)
+
+11. Ω(1)
+
+12. Ө(log n)

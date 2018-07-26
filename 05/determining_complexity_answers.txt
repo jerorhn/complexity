@@ -1,0 +1,17 @@
+1. O(1)
+  There is always only one element and it only outputs the element, nothing variable happens.
+
+2. O(n)
+  It iterates through the collection of n elements so, it takes a time equivalent to the number of elements.
+
+3. O(n log n)
+  While this at first appears linear, with closer inspection, each element is it's own collection which is iterated through as well so I believe this is loglinear.
+
+4. O(log n)
+  This is very similar to binary search.  It is recursive with two calls for each iteration.
+
+5. O(n)
+  We iterate through the collection until we get near n so this is linear even though it has a non-variable term of -2.
+
+6. O(n log n)
+  This one is more difficult but I believe that it is loglinear because it is recursive but seems like there is more too it than a straight log.  
